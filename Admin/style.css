@@ -1,0 +1,25 @@
+
+.table td, .table th {
+text-align: center;
+font-size: 18px; 
+padding: 12px 20px;  
+}
+.table th {
+background-color: #ffffff;
+font-size: 20px;
+}
+.table td img.product-image {
+border-radius: 20px;
+width: 80px; 
+height: 70px; 
+}
+.btn-info, .btn-primary, .btn-danger {
+font-size: 18px;
+padding: 12px 20px;
+border-radius: 20px;
+}
+.btn-info:hover, .btn-primary:hover, .btn-danger.btn-danger:hover {
+transform: scale(1.1);
+transition: transform 0.2s;
+}
+
